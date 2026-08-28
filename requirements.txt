@@ -1,0 +1,4 @@
+strealit
+openai
+langchain
+langchain-openai
