@@ -1,4 +1,4 @@
-strealit==1.27.0
+streamlit==1.27.0
 openai==1.109.1
 langchain==0.3.27
 langchain-openai==0.3.29
